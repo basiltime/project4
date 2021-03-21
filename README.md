@@ -8,4 +8,5 @@ https://basiltime.github.io/project4/
 -----------------
 In this project, an existing website has been optimized for accessibility, performance, and SEO. 
 
-View the optimization report [HERE](https://docs.google.com/presentation/d/1qJ2VmvqY7gNIpqvTpEAEqBED2jCnZH9iA2BPUZV7GOU/edit#slide=id.gc94b87c039_2_0).
+View the optimization report [here](https://docs.google.com/presentation/d/1qJ2VmvqY7gNIpqvTpEAEqBED2jCnZH9iA2BPUZV7GOU/edit#slide=id.gc94b87c039_2_0).
+
